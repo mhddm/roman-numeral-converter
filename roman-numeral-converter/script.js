@@ -67,8 +67,8 @@ number.addEventListener("keydown", (e) => {
 
 
 // Test cases
-console.log(arabicToRoman(9)) // "IX"
-console.log(arabicToRoman(16)) // "XVI"
-console.log(arabicToRoman(649)) // "DCXLIX"
-console.log(arabicToRoman(1023)) // "MXXIII"
-console.log(arabicToRoman(3999)) // "MMMCMXCIX"
+// console.log(arabicToRoman(9)) // "IX"
+// console.log(arabicToRoman(16)) // "XVI"
+// console.log(arabicToRoman(649)) // "DCXLIX"
+// console.log(arabicToRoman(1023)) // "MXXIII"
+// console.log(arabicToRoman(3999)) // "MMMCMXCIX"
