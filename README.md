@@ -1,6 +1,7 @@
 # Roman Numeral Converter
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 A simple tool to convert Arabic numbers to Roman numerals, built using HTML, CSS, and JavaScript.
 
 ## Features
@@ -18,6 +19,8 @@ A simple tool to convert Arabic numbers to Roman numerals, built using HTML, CSS
 2. Open index.html in your browser.
 3. Enter a number in the input field and click "Convert" to see the Roman numeral equivalent.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
@@ -50,6 +53,9 @@ A web application that converts numbers to Roman numerals.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
